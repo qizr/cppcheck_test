@@ -8,8 +8,9 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     char *p;
 
+    int i[20];
 
-
+    i[20]=2;
 
 
 }
